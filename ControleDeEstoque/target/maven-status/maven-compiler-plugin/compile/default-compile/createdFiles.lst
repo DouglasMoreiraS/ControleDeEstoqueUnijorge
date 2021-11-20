@@ -1,0 +1,15 @@
+br\com\unijorge\tablemodel\ProdutoTableModel.class
+br\com\unijorge\domain\GenericDomain.class
+br\com\unijorge\view\View.class
+br\com\unijorge\dao\FabricanteDAO.class
+br\com\unijorge\main\Main.class
+br\com\unijorge\view\ProdutoView.class
+br\com\unijorge\view\View$3.class
+br\com\unijorge\view\View$1.class
+br\com\unijorge\dao\ProdutoDAO.class
+br\com\unijorge\controller\ProdutoController.class
+br\com\unijorge\util\HibernateUtil.class
+br\com\unijorge\dao\GenericDAO.class
+br\com\unijorge\view\View$2.class
+br\com\unijorge\domain\Produto.class
+br\com\unijorge\domain\Fabricante.class
